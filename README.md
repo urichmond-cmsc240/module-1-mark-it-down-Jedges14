@@ -4,7 +4,7 @@ Add your profile details here
 
 # JEDGES GYASI
 
-! [Me](/IMG_1654.JPG)
+![Me](IMG_1654.JPG)
 ### 49642376
 
 > my github username: **jedges14**
