@@ -5,7 +5,7 @@ Add your profile details here
 # JEDGES GYASI
 
 ![Me](IMG_1654.JPG)
-### 49642376
+EID: **49642376**
 
 > my github username: **jedges14**
 
@@ -19,5 +19,5 @@ Add your profile details here
   - Read research papers
 
 ## Favorite movie 
-![The man who knew Infinity](MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_FMjpg_UX1000_.JPG)
+![The man who knew Infinity](img.JPG)
 
