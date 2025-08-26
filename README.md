@@ -18,5 +18,6 @@ Add your profile details here
   - Sleeping
   - Read research papers
 
-## Favorite movie [The man who knew Infinity](MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_FMjpg_UX1000_.jpg)
+## Favorite movie 
+![The man who knew Infinity](MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_FMjpg_UX1000_.JPG)
 
